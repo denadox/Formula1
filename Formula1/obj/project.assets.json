@@ -122,11 +122,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Komputer\\source\\repos\\Formula1\\Formula1-master\\Formula1\\Formula1.csproj",
+      "projectUniqueName": "C:\\Users\\Komputer\\source\\repos\\Formula1\\Formula1\\Formula1.csproj",
       "projectName": "Formula1",
-      "projectPath": "C:\\Users\\Komputer\\source\\repos\\Formula1\\Formula1-master\\Formula1\\Formula1.csproj",
+      "projectPath": "C:\\Users\\Komputer\\source\\repos\\Formula1\\Formula1\\Formula1.csproj",
       "packagesPath": "C:\\Users\\Komputer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Komputer\\source\\repos\\Formula1\\Formula1-master\\Formula1\\obj\\",
+      "outputPath": "C:\\Users\\Komputer\\source\\repos\\Formula1\\Formula1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Komputer\\AppData\\Roaming\\NuGet\\NuGet.Config",

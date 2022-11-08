@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8MktYxvX3D8ZxQbELer+nKq93thaTAlseeEbYam/v8ovQ9uEXyC1QVs72TMrOv65dcrLHjdXFzVQ2FOAZhiRCA==",
+  "dgSpecHash": "Gtho8g6Tqmk7awdB5n3Q5EzB7cP1Y6Nser6fLYlWnmoqp97VfjrXpEBUHDqSJxlxg5KOInbLgCFpopVQ8dU0CQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Komputer\\source\\repos\\Formula1\\Formula1-master\\Formula1\\Formula1.csproj",
+  "projectFilePath": "C:\\Users\\Komputer\\source\\repos\\Formula1\\Formula1\\Formula1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Komputer\\.nuget\\packages\\entityframework\\6.1.0\\entityframework.6.1.0.nupkg.sha512",
     "C:\\Users\\Komputer\\.nuget\\packages\\microsoft.aspnet.identity.core\\2.2.3\\microsoft.aspnet.identity.core.2.2.3.nupkg.sha512",
