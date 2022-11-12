@@ -1,6 +1,6 @@
 ﻿using Formula1.Entities;
-using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace Formula1
 {
@@ -17,9 +17,9 @@ namespace Formula1
         public DbSet<Race> Races { get; set; }
         public DbSet<Tyre> Tyres { get; set; }
 
-        //protected override void OnModelCreating(ModelBuilder builder)
-        //{
-        //    base.OnModelCreating(builder);
-        //}
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
+        }
     }
 }

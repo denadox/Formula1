@@ -76,3 +76,16 @@ C:\Users\Komputer\source\repos\Formula1\Formula1-master\Formula1\obj\Debug\net6.
 C:\Users\Komputer\source\repos\Formula1\Formula1-master\Formula1\obj\Debug\net6.0\Formula1.pdb
 C:\Users\Komputer\source\repos\Formula1\Formula1-master\Formula1\obj\Debug\net6.0\Formula1.genruntimeconfig.cache
 C:\Users\Komputer\source\repos\Formula1\Formula1-master\Formula1\obj\Debug\net6.0\ref\Formula1.dll
+C:\Users\Komputer\source\repos\Formula1\Formula1\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Komputer\source\repos\Formula1\Formula1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Komputer\source\repos\Formula1\Formula1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Komputer\source\repos\Formula1\Formula1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Komputer\source\repos\Formula1\Formula1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Komputer\source\repos\Formula1\Formula1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Komputer\source\repos\Formula1\Formula1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Komputer\source\repos\Formula1\Formula1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Komputer\source\repos\Formula1\Formula1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Komputer\source\repos\Formula1\Formula1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Komputer\source\repos\Formula1\Formula1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Komputer\source\repos\Formula1\Formula1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Komputer\source\repos\Formula1\Formula1\obj\Debug\net6.0\Formula1.csproj.CopyComplete
