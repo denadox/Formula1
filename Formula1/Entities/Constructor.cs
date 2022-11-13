@@ -15,6 +15,10 @@ namespace Formula1.Entities
         [StringLength(20)]
         public string EngineSupplier { get; set; } = null!;
 
+        public int CountryId { get; set; }
+
+        public Country Country { get; set; }
+
         public List<Driver> Drivers { get; set; } = new List<Driver>();
     }
 }
