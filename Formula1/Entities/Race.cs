@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Formula1.Entities
 {
@@ -13,5 +14,10 @@ namespace Formula1.Entities
         [Required]
         [StringLength(15)]
         public string Country { get; set; } = null!;
+
+        public int RaceTypeId { get; set; }
+
+        [ForeignKey(nameof(RaceTypeId))]
+        public RaceType RaceType { get; set; }
     }
 }
