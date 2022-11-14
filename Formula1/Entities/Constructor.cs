@@ -19,6 +19,9 @@ namespace Formula1.Entities
 
         public Country Country { get; set; }
 
+        [Required]
+        public string IconUrl { get; set; } = null!;
+
         public List<Driver> Drivers { get; set; } = new List<Driver>();
     }
 }

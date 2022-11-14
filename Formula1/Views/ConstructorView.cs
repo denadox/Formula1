@@ -19,5 +19,8 @@ namespace Formula1.Views
         [StringLength(20)]
         public string Country { get; set; } = null!;
 
+        [Required]
+        public string IconUrl { get; set; } = null!;
+
     }
 }

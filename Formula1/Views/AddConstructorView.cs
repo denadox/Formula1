@@ -16,6 +16,9 @@ namespace Formula1.Views
 
         public int CountryId { get; set; }
 
+        [Required]
+        public string IconUrl { get; set; } = null!;
+
         public List<Driver> Drivers { get; set; } = new List<Driver>();
     }
 }
