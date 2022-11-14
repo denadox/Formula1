@@ -1,11 +1,9 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Formula1.Entities
+namespace Formula1.Views
 {
-    public class Driver
+    public class DriverView
     {
-        public int Id { get; set; }
-
         [Required]
         [StringLength(20)]
         public string FirstName { get; set; } = null!;
