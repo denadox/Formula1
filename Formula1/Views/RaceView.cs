@@ -1,9 +1,10 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Formula1.Entities;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations;
 
-namespace Formula1.Entities
+namespace Formula1.Views
 {
-    public class Race
+    public class RaceView
     {
         public int Id { get; set; }
 
@@ -18,9 +19,7 @@ namespace Formula1.Entities
         [Required]
         public string ImageUrl { get; set; } = null!;
 
-        public int RaceTypeId { get; set; }
-
-        [ForeignKey(nameof(RaceTypeId))]
-        public RaceType RaceType { get; set; }
+        [Required]
+        public string RaceType { get; set; } = null!;
     }
 }
